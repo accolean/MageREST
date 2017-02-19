@@ -1,0 +1,2 @@
+# MageREST
+Magento REST API
